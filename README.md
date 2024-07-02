@@ -17,7 +17,7 @@ open your terminal, go to the directory that you will install this project, then
 ```bash
 https://github.com/marsel945/zemilan-po-app
 
-cd zemilan-po-app 
+cd tubes-pemrogramanwebsite
 ```
 ### Install packages
 
